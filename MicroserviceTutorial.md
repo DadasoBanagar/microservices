@@ -21,6 +21,10 @@ We will discuss below topics to cover microservice based project:-
    * Monolithic application means we deploy the all different type of modules in single unit.
    * In Monolithic Application deployment speed is very faster,so we can say that there is no time consuming process in monolithic application.
    * But In monolithic application performance is very low because we deploy all module as single unit.If anyone module fails then it affects all other module and because of this application work will stop until new deployment.
+   
+ + Springboot application as monolithic
+    * Springboot application as monolithic based application.
+    * In springboot application all different types of module deployed in single single unit.
 
 
 
