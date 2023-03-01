@@ -27,4 +27,9 @@ We will discuss below topics to cover microservice based project:-
     * In springboot application all different types of module deployed in single single unit.
 
 
-
+ + Introduction of microservice
+   * Microservice is small small services(i.e small small springboot application).
+   * In microservice we deploy indusual service.
+   * In microservice based project we will not deploye all services as single unit.
+   * And because of deploying indudual service the application performance will increase.
+   * 
