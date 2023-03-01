@@ -3,18 +3,24 @@
 # Microservices implementation process
 Before going ahed of microservice implementation process first we will discuss about overall topics of microservice.
 
-So lets starts....
 
 We will discuss below topics to cover microservice based project:-
-## Monolithic Application
-2.SpringBoot application as Monolithic
-3.Introduction of microservice
-  a.what is microservice?
-  b.why we need to implement microservice based project instead of springboot based project?
-4.About Eureka server. 
-5.About fault tollerance or circuit breaker.
-6.About hystrix dashboard
-7.About how to implement logger concept in microservice based project
-8.About ELK.
++ Monolithic Application
++ SpringBoot application as Monolithic
++ Introduction of microservice
+  * what is microservice?
+  * why we need to implement microservice based project instead of springboot based project?
++ About Eureka server. 
++ About fault tollerance or circuit breaker.
++ About hystrix dashboard
++ About how to implement logger concept in microservice based project
++ About ELK.
+
+##### So lets starts above topics in little bit details so that you can understand....
+ + Monolithic Application
+   * Monolithic application means we deploy the all different type of modules in single unit.
+   * In Monolithic Application deployment speed is very faster,so we can say that there is no time consuming process in monolithic application.
+   * But In monolithic application performance is very low because we deploy all module as single unit.If anyone module fails then it affects all other module and because of this application work will stop until new deployment.
+
 
 
